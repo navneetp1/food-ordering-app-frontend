@@ -56,7 +56,8 @@ module.exports = {
       },
       fontFamily:{
         body: ["Inter"],
-        hero: ["Andika"]
+        hero: ["Andika"],
+        roboto: ["Roboto"]
       },
       borderRadius: {
         lg: "var(--radius)",
