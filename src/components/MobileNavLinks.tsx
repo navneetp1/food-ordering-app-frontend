@@ -8,6 +8,11 @@ export default function MobileNavLinks(){
     return (
         <>
             <Link 
+                to="/order-status"
+                className="flex font-body items-center font-bold hover:text-orange-500 hover:underline-offset-1">
+                Order Status
+            </Link>
+            <Link 
                 to="/user-profile"
                 className="flex font-body items-center font-bold hover:text-orange-500 hover:underline-offset-1">
                 Profile
